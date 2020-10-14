@@ -21,7 +21,7 @@ function App() {
         <span>São Paulo</span>
       </div>
 
-      <a href="#" className="enter-app">
+      <a href="" className="enter-app">
         >
       </a>
       </div>
